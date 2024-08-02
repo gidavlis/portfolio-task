@@ -1,2 +1,2 @@
 # portfolio-task
-A simple web page for study.
+A simple study web page.
